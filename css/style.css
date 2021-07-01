@@ -25,7 +25,7 @@ svg {
 }
 
 .content {
-    margin-top: 6.5rem;
+    margin-top: 13vh;
     margin-bottom: 0;
     padding: 7% 13%;
 }
@@ -47,6 +47,7 @@ footer {
     background-color: #001d24;
     color: white;
     height: 10vh;
+    width: 100%;
     margin-top: 0;
     text-align: center;
     padding-top: 5vh;
